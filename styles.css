@@ -1,0 +1,43 @@
+body { 
+ background:purple;
+ color: yellow;
+ margin: 10px;
+font-family: "Protest Guerrilla", sans-serif;
+}
+  
+
+
+
+header{ 
+border-bottom: solid 10px gold;
+
+}    
+section {   
+padding-bottom: 80px;
+padding-top: 80px;
+
+
+}
+
+.dream{
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{ 
+    margin-right: 20px;
+
+}
+
+h1{  
+ font-size: 30px;
+
+}
+
+img{
+    height: 200px;
+}
+
+.categoria-videeo{ 
+    display: flex;
+}
